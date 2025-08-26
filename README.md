@@ -124,5 +124,6 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Author
 
-- **Richard Gonçalves** - [@drahciry](https://github.com/drahciry)
+- **LinkedIn** - [Richard Gonçalves](https://linkedin.com/in/drahciry/)
+- **GitHub** - [@drahciry](https://github.com/drahciry)
         
