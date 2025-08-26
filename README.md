@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.3.1-purple?style=for-the-badge&logo=pandas&logoColor=white)
-![Win32Com](https://img.shields.io/badge/Win32Com-311-red?style=for-the-badge&logo=win32com&logoColor=white)
+![PyWin32](https://img.shields.io/badge/PyWin32-311-red?style=for-the-badge&logo=pywin32&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 A robust and scalable framework for automating SAP GUI logon and tasks using Python. This project reads connection data from an Excel file, manages credentials securely, and uses an object-oriented design for clean and maintainable code.
