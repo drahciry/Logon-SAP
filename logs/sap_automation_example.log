@@ -1,0 +1,8 @@
+2025-08-26 14:03:59,360 - INFO - Secure credentials file 'credentials.json' loaded successfully.
+2025-08-26 14:04:00,089 - INFO - All sheets from 'logon_sap.xlsx' read successfully.
+2025-08-26 14:04:00,089 - INFO - Processing sheet: SHEET 1
+2025-08-26 14:04:01,258 - INFO - Successfully connected to SAP system: SYSTEM EXAMPLE 1 CLIENT EXAMPLE 1
+2025-08-26 14:04:05,298 - INFO - Login successful for user USER EXAMPLE 1 on system SYSTEM EXAMPLE 1 CLIENT EXAMPLE 1
+2025-08-26 14:04:11,629 - INFO - Successfully connected to SAP system: SYSTEM EXAMPLE 1 CLIENT EXAMPLE 2
+2025-08-26 14:04:15,768 - INFO - Login successful for user USER EXAMPLE 1 on system SYSTEM EXAMPLE 1 CLIENT EXAMPLE 2.
+2025-08-26 14:04:21,010 - INFO - Script finished processing all entries.
