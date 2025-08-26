@@ -8,7 +8,7 @@ import os           # Used for path manipulation (finding script directory, join
 # HELPER FUNCTIONS
 # =============================================================================
 
-def read_all_sheets(file_path) -> dict:
+def read_all_sheets(file_path: str) -> dict:
     """
     Reads all sheets from a given Excel file into a dictionary of pandas DataFrames.
     

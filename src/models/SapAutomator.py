@@ -13,7 +13,7 @@ class SapAutomator:
     A class to encapsulate all SAP GUI automation tasks.
     Each instance of this class will handle one specific logon and task execution.
     """
-    def __init__(self, system_name, client, user, password):
+    def __init__(self, system_name: str, client: int, user: str, password: str):
         """
         Constructor for the SapAutomator class.
         Initializes an instance with all necessary connection details.
@@ -36,7 +36,7 @@ class SapAutomator:
         self.session = None
         self.application = None
 
-    def connect(self):
+    def connect(self) -> bool:
         """
         Establishes a connection to the SAP system using the instance's details.
         This method contains the robust wait logic to handle connection delays.
